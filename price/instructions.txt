@@ -1,0 +1,6 @@
+1. Copy and paste all articles on the work list onto notepad, save with a .txt extension
+2. Move this file into the same folder as priceChange.py
+3. Run priceChange.py
+
+// OPTIONAL //
+Update SLM03
